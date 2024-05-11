@@ -10,3 +10,7 @@ Projeto desafio imersão ia alura com gemini
 - Faça upload da imagem de uma refeição
 - Execute
 - Obtenha o feedback
+
+
+## Obs:
+- As imagem estão na pasta img, alterar o path quando for necessário
